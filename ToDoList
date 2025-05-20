@@ -1,0 +1,11 @@
+TO Do List
+
+#bruteforce.py
+
+Choose the program name
+Send request and get return code--(finished at GMT+9 Korea time: 2025/05/21/am 02:22)
+Give shape to bruteforce repetition with wordlist
+Sort the response code with "if"
+Show the exist page and permission denied page.
+Make result design comfort
+Make run faster with multi processing
